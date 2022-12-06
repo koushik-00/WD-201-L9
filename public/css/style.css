@@ -1,0 +1,10 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(202, 106, 106);
+    color: aliceblue;
+    }
+    
+    .Todo-Item:hover .trash-icon{
+      display:block;
+    }
+    
